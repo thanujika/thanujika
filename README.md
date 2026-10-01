@@ -1,248 +1,149 @@
-# 👋 Hi, I'm Dinithi Thanujika Rathnayaka
+# 👋 Hi, I'm Dinithi Thanujika
 
-### Networking & Mobile Computing Undergraduate | Cyber Security | IT & Software
+### 🎓 BIT (Hons) Networking & Mobile Computing
 
-I'm a motivated and detail-oriented final-year undergraduate pursuing a **BIT (Hons) in Networking & Mobile Computing**, with a strong interest in **networking, IT infrastructure, cybersecurity, software development, and system testing**.
+### 🔐 Cyber Security | 🌐 Networking | 💻 Software Development
 
-Currently gaining practical industry experience through an **IT internship at the Department of Agrarian Development**, with hands-on exposure to software development, functional testing, API testing, security testing, and troubleshooting.
+I'm a final-year undergraduate specializing in **Networking & Mobile Computing**, with a strong interest in **Cyber Security, Networking, IT Infrastructure, and Software Development**.
+
+I enjoy building practical applications, solving technical problems, and continuously learning new technologies.
 
 ---
 
 ## 👩‍💻 About Me
 
-* 🎓 Final-year **BIT (Hons) Networking & Mobile Computing** undergraduate
-* 🔐 Diploma holder in **Cyber Security & Ethical Hacking**
-* 🌐 Interested in **Networking, Network Security & IT Infrastructure**
-* 💻 Interested in **Software & Web Development**
-* 📱 Experience with **Flutter Mobile Development**
-* 🧪 Experience in **Software Testing & Quality Assurance**
-* 🔎 Interested in **Security Testing & Vulnerability Assessment**
-* 🚀 Passionate about learning new technologies and solving technical problems
+* 🎓 BIT (Hons) in Networking & Mobile Computing
+* 🔐 Diploma in Cyber Security & Ethical Hacking
+* 🌐 Interested in Networking & Network Security
+* 💻 Interested in Web & Mobile Application Development
+* 🧪 Experience in Software Testing & Quality Assurance
+* 🔎 Interested in Security Testing & Vulnerability Assessment
 
 ---
 
-## 💼 Work Experience
+## 💼 Experience
 
-### IT Intern
+### 🏢 IT Intern — Department of Agrarian Development
 
-**Department of Agrarian Development – Head Office, Colombo, Sri Lanka**
 **July 2026 – Present**
 
-* Contributing to the development of an internal **Agrarian Project Management System**
-* Assisting with system development, functional testing, debugging, and quality assurance
-* Performing security testing and basic vulnerability assessment
-* Conducting port scanning and network security checks
-* Identifying and reporting technical and security issues
-* Working with **Laravel, PHP, MySQL, React, Flutter, Git/GitHub, and Postman**
-* Collaborating with team members to troubleshoot issues and improve system functionality and security
+* 💻 Software development and system testing
+* 🧪 Functional testing, debugging & QA
+* 🔐 Security testing & basic vulnerability assessment
+* 🔎 Port scanning and network security checks
+* 🔧 Laravel, PHP, MySQL, React, Flutter & Postman
+* 🤝 Git/GitHub collaboration
 
-### Trainee Network Administrator
+### 🌐 Trainee Network Administrator — SoftwarePlus Pvt Ltd
 
-**SoftwarePlus Pvt Ltd – Remote**
 **January 2026 – June 2026**
 
-* Assisted with basic network administration and troubleshooting
-* Gained practical exposure to network monitoring, configuration, and maintenance
-* Supported troubleshooting of connectivity and network-related issues
-* Applied knowledge of **TCP/IP, routing, switching, and network security**
-* Collaborated with team members to identify and resolve technical issues
+* 🌐 Network administration & troubleshooting
+* 🔧 Network monitoring and configuration
+* 🔐 TCP/IP, routing, switching & network security
+* 🤝 Remote team collaboration
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Networking
+### 💻 Development
 
-`TCP/IP` `Routing & Switching` `VLANs` `Network Troubleshooting`
+<p>
+<img src="https://skillicons.dev/icons?i=python,php,java,dart,flutter,laravel,flask,react,html,css,js" />
+</p>
 
-### Cyber Security
+### 🌐 Networking & Security
 
-`Network Security` `Security Testing` `Port Scanning` `Vulnerability Assessment` `Ethical Hacking`
+`TCP/IP` `Routing & Switching` `VLANs` `Network Security`
+`Port Scanning` `Vulnerability Testing` `Cisco Packet Tracer` `Wireshark`
 
-### Development
+### 🔧 Tools
 
-`PHP` `Laravel` `React` `Flutter` `Python` `JavaScript` `HTML` `CSS`
-
-### Databases
-
-`MySQL` `SQLite`
-
-### Testing & Tools
-
-`Postman` `Git` `GitHub` `Cisco Packet Tracer` `Wireshark`
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,mysql,sqlite" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🌱 GrowMate — Smart Agriculture Mobile Application
 
-**University Final Year Project**
+**Final Year Project**
 
-A smart agriculture mobile application designed to empower rural farmers with digital tools to improve decision-making and agricultural productivity.
+AI-powered agriculture mobile application with a **buy & sell platform, fertilizer reminders, AI chatbot, and harvesting machine booking**.
 
-**Key Features**
+**Flutter • Python • Flask • SQLite • TensorFlow/Keras**
 
-* 🛒 Buy & Sell Platform
-* 🌿 Fertilizer Reminder
-* 🤖 AI Chatbot
-* 🚜 Harvesting Machine Booking Platform
-
-**Technologies:** Flutter • Python • Flask • SQLite • TensorFlow/Keras • JWT
-
-🔗 [View Repository](https://github.com/thanujika/growmate_final)
-
----
+🔗 [GitHub Repository](https://github.com/thanujika/growmate_final)
 
 ### 🦠 Machine Learning-Based Malware Detection System
 
-A machine learning-based application developed to detect malicious software using machine learning techniques.
+Machine learning-based application for detecting malicious software.
 
-**Technologies:** Python • Machine Learning • Streamlit
+**Python • Machine Learning • Streamlit**
 
-🔗 [View Live Demo](https://yadhurshini-mini-project-malware-clean-app-xy0x1r.streamlit.app/)
+🔗 [Live Demo](https://yadhurshini-mini-project-malware-clean-app-xy0x1r.streamlit.app/)
 
----
+### 🌸 E-commerce Flower Shop
 
-### 🏫 School Management System
+Responsive online flower shop with product catalog and shopping cart.
 
-A system designed to streamline student and staff record management and reduce manual administrative work.
+**HTML • CSS • JavaScript**
 
-**Focus:** Student Management • Staff Management • Record Management
-
-🔗 [View Repository](https://github.com/thanujika/schoolmanagement-)
-
----
-
-### 🌸 E-commerce Flower Shop Website
-
-A responsive online flower shop website with a product catalog and shopping cart functionality.
-
-**Technologies:** HTML • CSS • JavaScript
-
-🔗 [View Repository](https://github.com/thanujika/web-system-technology)
-
----
-
-### 🧠 Mental Health Flutter App
-
-A Flutter mobile application providing stress-relief techniques, personal notes, and daily mental wellness exercises.
-
-**Technologies:** Flutter • Dart
-
-🔗 [View Repository](https://github.com/thanujika/calmspace-mental)
-
----
-
-### 📖 MindPages — Personal Journal Web Application
-
-A responsive browser-based journal application featuring CRUD operations, search, statistics, text export, and local data persistence.
-
-**Technologies:** HTML • CSS • JavaScript • localStorage
-
-🔗 [View Repository](https://github.com/thanujika/Journal-book)
-
----
+🔗 [GitHub Repository](https://github.com/thanujika/web-system-technology)
 
 ### 🎮 GameHub — 10-in-1 Classic Games
 
-A responsive collection of 10 classic games with score tracking, high scores, game statistics, and local data persistence.
+Responsive collection of 10 classic games with score tracking and local data persistence.
 
-**Features:** 10 Games • Score Tracking • High Scores • Statistics • Offline Support
+**HTML • CSS • JavaScript • localStorage**
 
-**Technologies:** HTML • CSS • JavaScript • localStorage
+🔗 [GitHub Repository](https://github.com/thanujika/gamehub)
 
-🔗 [View Repository](https://github.com/thanujika/gamehub)
+### 📖 MindPages — Personal Journal
 
----
+Browser-based journal application with CRUD operations, search, statistics, and local storage.
 
-### 🧘 MindEase — Mental Wellness Web Application
+**HTML • CSS • JavaScript • localStorage**
 
-A responsive mental wellness application featuring mood tracking, journaling, guided breathing exercises, and progress tracking.
+🔗 [GitHub Repository](https://github.com/thanujika/Journal-book)
 
-**Technologies:** HTML5 • CSS3 • JavaScript • localStorage
+### 🧘 MindEase — Mental Wellness Web App
 
-🔗 [View Repository](https://github.com/thanujika/calming-web)
+Mental wellness application with mood tracking, journaling, breathing exercises, and progress tracking.
+
+**HTML • CSS • JavaScript • localStorage**
+
+🔗 [GitHub Repository](https://github.com/thanujika/calming-web)
 
 ---
 
 ## 🎓 Education
 
-### BIT (Hons) in Networking & Mobile Computing
-
-**Horizon Campus, Sri Lanka**
-2022 – 2026
-
-### Diploma in Cyber Security & Ethical Hacking
-
-**SITC University, Sri Lanka**
-2026
-
-### Diploma in Psychology
-
-**Eurasian Campus, Sri Lanka**
-2024
-
-### G.C.E. Advanced Level — Bio Systems Technology
-
-**H/Ruhunu Vijayaba National College**
-2020
-
-### G.C.E. Ordinary Level
-
-2017
+* 🎓 **BIT (Hons) Networking & Mobile Computing** — Horizon Campus
+* 🔐 **Diploma in Cyber Security & Ethical Hacking** — SITC University
+* 🧠 **Diploma in Psychology** — Eurasian Campus
+* 📚 **G.C.E. Advanced Level — Bio Systems Technology**
 
 ---
 
 ## 📜 Certifications
 
-* **Diploma in AWS Solution Architect** — Alison
-* **Cybersecurity Fundamentals** — Cisco Networking Academy
-* **IoT Fundamentals** — Cisco Networking Academy
-* **Network Fundamentals** — Cybrary
-* **Diploma in Computer Network** — Alison
-* **Linux Network Administrator** — Alison
-* **Principles of User Experience & Business Accessibility**
-
----
-
-## 🔐 Areas of Interest
-
-* Network Security
-* Cyber Security
-* Ethical Hacking
-* Network Administration
-* IT Infrastructure
-* Web Application Security
-* Vulnerability Assessment
-* Software Testing & QA
-* Mobile Application Development
-* Web Development
-* Artificial Intelligence & Machine Learning
-
----
-
-## 💡 Soft Skills
-
-`Problem Solving` • `Critical Thinking` • `Teamwork` • `Communication` • `Adaptability` • `Time Management` • `Attention to Detail`
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanujika&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanujika&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+* AWS Solution Architect — Alison
+* Cybersecurity Fundamentals — Cisco Networking Academy
+* IoT Fundamentals — Cisco Networking Academy
+* Network Fundamentals — Cybrary
+* Diploma in Computer Network — Alison
+* Linux Network Administrator — Alison
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="center">
-
 <a href="mailto:dinithithanujika@gmail.com">
-<img src="https://img.shields.io/badge/Email-dinithithanujika%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Dinithi-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/thanujika">
@@ -253,10 +154,8 @@ A responsive mental wellness application featuring mood tracking, journaling, gu
 <img src="https://img.shields.io/badge/Portfolio-Dinithi-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-</p>
-
 ---
 
 <p align="center">
-  <i>Thank you for visiting my profile!</i>
+  ⭐ Thanks for visiting my profile!
 </p>
