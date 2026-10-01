@@ -1,244 +1,206 @@
-# 👋 Hi, I'm Dinithi Thanujika
+# Hi, I'm Dinithi Thanujika 👋
 
-### 🎓 BIT (Hons) in Networking & Mobile Computing
+### BIT (Hons) in Networking & Mobile Computing | Cyber Security | Software Development
 
-### 🔐 Cyber Security Enthusiast | 🌐 Networking | 💻 Software Development
+I am a **BIT (Hons) undergraduate specializing in Networking & Mobile Computing**, with an academic background in **Cyber Security** and a strong interest in software development, networking, and information security.
 
-I'm an undergraduate student specializing in **Networking & Mobile Computing**, with a strong interest in **Cyber Security, Networking, Web Development, Mobile Application Development, and Machine Learning**.
-
-I enjoy building practical applications, exploring new technologies, and continuously developing my technical skills through academic and personal projects.
+I enjoy developing practical applications, learning new technologies, and applying my knowledge to real-world projects.
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 * 🎓 BIT (Hons) in Networking & Mobile Computing Undergraduate
 * 🔐 Diploma in Cyber Security
-* 💻 Interested in Web & Mobile Application Development
-* 🌐 Interested in Computer Networks & Network Security
-* 🤖 Interested in Machine Learning & AI
-* 🧪 Experience with software testing and security testing
-* 🚀 Passionate about learning new technologies and building practical projects
+* 💻 Interested in Software & Web Development
+* 📱 Interested in Mobile Application Development
+* 🌐 Interested in Networking & Network Security
+* 🤖 Interested in Artificial Intelligence & Machine Learning
+* 🧪 Experience in Software Testing and Quality Assurance
+* 📍 Based in Sri Lanka
 
 ---
 
-## 🛠️ Technical Skills
+## Experience
 
-### 💻 Programming & Development
+### IT / Software Development Intern
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,php,java,dart,flutter,laravel,flask,react,html,css,js" />
-</p>
+**Department of Agrarian Development – Head Office, Sri Lanka**
+**July 2026 – Present**
 
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
-
-### 🌐 Networking & Cyber Security
-
-* 🌐 Computer Networking
-* 🔀 Routing & Switching
-* 🔗 VLANs
-* 🛡️ Network Security
-* 🔐 Web Application Security
-* 🔎 Port Scanning
-* 🧪 Security Testing
-* 📡 Cisco Packet Tracer
-* 🦈 Wireshark
-* 🔍 Basic Ethical Hacking
-
-### 🔧 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
-</p>
+* Contributing to the development and improvement of internal software systems
+* Performing functional testing, quality assurance, and debugging
+* Conducting API testing using Postman
+* Performing security testing, port scanning, and basic vulnerability assessment
+* Working with web and mobile application technologies
+* Collaborating with development teams using Git and GitHub
+* Supporting troubleshooting and system improvements
 
 ---
 
-# 🚀 Projects
+## Technical Skills
 
-### 🌱 GrowMate – Smart Agriculture Mobile Application
+### Programming & Development
+
+`Python` `PHP` `Java` `Dart` `JavaScript` `HTML` `CSS`
+
+### Frameworks & Technologies
+
+`Flutter` `Laravel` `Flask` `React`
+
+### Databases
+
+`MySQL` `SQLite`
+
+### Networking & Cyber Security
+
+`Computer Networking` `Routing & Switching` `VLANs`
+`Network Security` `Web Security` `Port Scanning`
+`Security Testing` `Cisco Packet Tracer` `Wireshark`
+
+### Tools
+
+`Git` `GitHub` `VS Code` `Postman` `Linux`
+
+---
+
+## Projects
+
+### GrowMate – Smart Agriculture Mobile Application
 
 **University Final Year Project**
 
-A smart agriculture mobile application designed to empower rural farmers with digital tools for better decision-making and agricultural productivity.
+A smart agriculture mobile application designed to support rural farmers with digital tools for agricultural decision-making and productivity.
 
-**Features:**
+**Key Features:**
 
-* 🛒 Buy & Sell Platform
-* 🌿 Fertilizer Reminders
-* 🤖 AI Chatbot
-* 🚜 Harvesting Machine Booking Platform
+* Buy and sell platform
+* Fertilizer reminders
+* AI chatbot
+* Harvesting machine booking platform
 
-**Technologies:** Flutter • Python • Flask • SQLite • TensorFlow/Keras • JWT
+**Technologies:** Flutter, Python, Flask, SQLite, TensorFlow/Keras, JWT
 
-🔗 [GitHub Repository](https://github.com/thanujika/growmate_final)
+[View Repository](https://github.com/thanujika/growmate_final)
 
 ---
 
-### 🦠 Machine Learning-Based Malware Detection System
+### Machine Learning-Based Malware Detection System
 
 A machine learning-based application developed to detect malicious software using machine learning techniques.
 
-**Technologies:** Python • Machine Learning • Streamlit
+**Technologies:** Python, Machine Learning, Streamlit
 
-🔗 [Live Demo](https://yadhurshini-mini-project-malware-clean-app-xy0x1r.streamlit.app/)
+[View Live Demo](https://yadhurshini-mini-project-malware-clean-app-xy0x1r.streamlit.app/)
 
 ---
 
-### 🏫 School Management System
+### School Management System
 
 A system developed to streamline student and staff record management and reduce manual administrative work.
 
-**Technologies:** Web Development • Database Management
-
-🔗 [GitHub Repository](https://github.com/thanujika/schoolmanagement-)
+[View Repository](https://github.com/thanujika/schoolmanagement-)
 
 ---
 
-### 🌸 E-commerce Flower Shop Website
+### E-commerce Flower Shop Website
 
-A fully functional online flower shop website featuring a product catalog, shopping cart, and responsive design.
+A responsive online flower shop website featuring a product catalog and shopping cart functionality.
 
-**Technologies:** HTML5 • CSS3 • JavaScript
+**Technologies:** HTML, CSS, JavaScript
 
-🔗 [GitHub Repository](https://github.com/thanujika/web-system-technology)
-
----
-
-### 🧠 Mental Health Flutter App
-
-A Flutter mobile application providing stress-relief techniques, personal notes, and daily mental wellness exercises.
-
-**Technologies:** Flutter • Dart
-
-🔗 [GitHub Repository](https://github.com/thanujika/calmspace-mental)
+[View Repository](https://github.com/thanujika/web-system-technology)
 
 ---
 
-### 📖 MindPages – Personal Journal Web Application
+### Mental Health Flutter App
 
-A responsive browser-based journal application with CRUD operations, search, statistics dashboard, text export, and local data persistence.
+A mobile application providing stress-relief techniques, personal notes, and daily mental wellness exercises.
 
-**Technologies:** HTML5 • CSS3 • JavaScript • localStorage
+**Technologies:** Flutter, Dart
 
-🔗 [GitHub Repository](https://github.com/thanujika/Journal-book)
+[View Repository](https://github.com/thanujika/calmspace-mental)
 
 ---
 
-### 🎮 GameHub – 10-in-1 Classic Games
+### MindPages – Personal Journal Web Application
+
+A responsive browser-based journal application featuring CRUD operations, search, statistics, text export, and local data persistence.
+
+**Technologies:** HTML, CSS, JavaScript, localStorage
+
+[View Repository](https://github.com/thanujika/Journal-book)
+
+---
+
+### GameHub – 10-in-1 Classic Games
 
 A responsive collection of 10 classic games with score tracking, high scores, game statistics, and local data persistence.
 
-**Features:**
+**Technologies:** HTML, CSS, JavaScript, localStorage
 
-* 🎯 10 Classic Games
-* 🏆 Score & High-Score Tracking
-* 📊 Game Statistics
-* 💾 Local Data Persistence
-* 📱 Responsive Design
-* 🌐 Offline-Capable
-
-**Technologies:** HTML5 • CSS3 • JavaScript • localStorage
-
-🔗 [GitHub Repository](https://github.com/thanujika/gamehub)
+[View Repository](https://github.com/thanujika/gamehub)
 
 ---
 
-### 🧘 MindEase – Mental Wellness Web Application
+### MindEase – Mental Wellness Web Application
 
-A responsive mental wellness web application featuring mood tracking, journaling, guided breathing exercises, and progress tracking.
+A responsive mental wellness application featuring mood tracking, journaling, guided breathing exercises, and progress tracking.
 
-**Technologies:** HTML5 • CSS3 • JavaScript • localStorage
+**Technologies:** HTML, CSS, JavaScript, localStorage
 
-🔗 [GitHub Repository](https://github.com/thanujika/calming-web)
-
----
-
-# 🔐 Cyber Security Interests
-
-* 🛡️ Network Security
-* 🔍 Ethical Hacking
-* 🌐 Web Application Security
-* 🔎 Vulnerability Assessment
-* 📡 Network Scanning
-* 🔐 Authentication & Authorization
-* 🚨 IDS / IPS
-* 🔥 Firewalls
-* 🧪 Security Testing
+[View Repository](https://github.com/thanujika/calming-web)
 
 ---
 
-# 🎓 Education
+## Education
 
-🎓 **BIT (Hons) in Networking & Mobile Computing**
-Horizon Campus
+**BIT (Hons) in Networking & Mobile Computing**
+Horizon Campus, Sri Lanka
 
-🔐 **Diploma in Cyber Security**
+**Diploma in Cyber Security**
 PSB University, Cambodia
 
-🧠 **Diploma / HND in Psychology & Counselling**
+**Diploma / HND in Psychology & Counselling**
 
-📚 **G.C.E. Advanced Level – Biotechnology Stream**
+**G.C.E. Advanced Level – Biotechnology Stream**
 
-📖 **G.C.E. Ordinary Level**
+**G.C.E. Ordinary Level**
 
 ---
 
-# 📊 GitHub Stats
+## Areas of Interest
+
+* Cyber Security
+* Network Security
+* Computer Networking
+* Web Application Security
+* Mobile Application Development
+* Software Development
+* Artificial Intelligence & Machine Learning
+* Quality Assurance & Software Testing
+
+---
+
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanujika&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanujika&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thanujika&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanujika&layout=compact&theme=tokyonight" height="165">
 </p>
 
 ---
 
-# 📈 GitHub Activity
+## Connect With Me
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanujika&theme=tokyo-night" />
-</p>
+**Email:** [dinithithanujika@gmail.com](mailto:dinithithanujika@gmail.com)
 
----
+**GitHub:** [github.com/thanujika](https://github.com/thanujika)
 
-# 📫 Connect With Me
-
-<p align="left">
-
-<a href="mailto:dinithithanujika@gmail.com">
-<img src="https://img.shields.io/badge/Email-Dinithi%20Thanujika-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/thanujika">
-<img src="https://img.shields.io/badge/GitHub-thanujika-black?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://transcendent-profiterole-3fd959.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Dinithi-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 🌱 Currently Learning
-
-* 🔐 Advanced Cyber Security
-* 🌐 Network Security
-* 📱 Mobile Application Development
-* 🌎 Web Application Development
-* 🤖 Artificial Intelligence & Machine Learning
-* ☁️ Cloud & DevOps Technologies
+**Portfolio:** [Dinithi Thanujika](https://transcendent-profiterole-3fd959.netlify.app)
 
 ---
 
 <p align="center">
-  <b>✨ Thanks for visiting my profile! ✨</b>
-</p>
-
-<p align="center">
-  <i>Let's connect, learn, and build something amazing together! 🚀</i>
+  Thank you for visiting my profile!
 </p>
