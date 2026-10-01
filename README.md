@@ -1,206 +1,262 @@
-# Hi, I'm Dinithi Thanujika 👋
+# 👋 Hi, I'm Dinithi Thanujika Rathnayaka
 
-### BIT (Hons) in Networking & Mobile Computing | Cyber Security | Software Development
+### Networking & Mobile Computing Undergraduate | Cyber Security | IT & Software
 
-I am a **BIT (Hons) undergraduate specializing in Networking & Mobile Computing**, with an academic background in **Cyber Security** and a strong interest in software development, networking, and information security.
+I'm a motivated and detail-oriented final-year undergraduate pursuing a **BIT (Hons) in Networking & Mobile Computing**, with a strong interest in **networking, IT infrastructure, cybersecurity, software development, and system testing**.
 
-I enjoy developing practical applications, learning new technologies, and applying my knowledge to real-world projects.
-
----
-
-## About Me
-
-* 🎓 BIT (Hons) in Networking & Mobile Computing Undergraduate
-* 🔐 Diploma in Cyber Security
-* 💻 Interested in Software & Web Development
-* 📱 Interested in Mobile Application Development
-* 🌐 Interested in Networking & Network Security
-* 🤖 Interested in Artificial Intelligence & Machine Learning
-* 🧪 Experience in Software Testing and Quality Assurance
-* 📍 Based in Sri Lanka
+Currently gaining practical industry experience through an **IT internship at the Department of Agrarian Development**, with hands-on exposure to software development, functional testing, API testing, security testing, and troubleshooting.
 
 ---
 
-## Experience
+## 👩‍💻 About Me
 
-### IT / Software Development Intern
+* 🎓 Final-year **BIT (Hons) Networking & Mobile Computing** undergraduate
+* 🔐 Diploma holder in **Cyber Security & Ethical Hacking**
+* 🌐 Interested in **Networking, Network Security & IT Infrastructure**
+* 💻 Interested in **Software & Web Development**
+* 📱 Experience with **Flutter Mobile Development**
+* 🧪 Experience in **Software Testing & Quality Assurance**
+* 🔎 Interested in **Security Testing & Vulnerability Assessment**
+* 🚀 Passionate about learning new technologies and solving technical problems
 
-**Department of Agrarian Development – Head Office, Sri Lanka**
+---
+
+## 💼 Work Experience
+
+### IT Intern
+
+**Department of Agrarian Development – Head Office, Colombo, Sri Lanka**
 **July 2026 – Present**
 
-* Contributing to the development and improvement of internal software systems
-* Performing functional testing, quality assurance, and debugging
-* Conducting API testing using Postman
-* Performing security testing, port scanning, and basic vulnerability assessment
-* Working with web and mobile application technologies
-* Collaborating with development teams using Git and GitHub
-* Supporting troubleshooting and system improvements
+* Contributing to the development of an internal **Agrarian Project Management System**
+* Assisting with system development, functional testing, debugging, and quality assurance
+* Performing security testing and basic vulnerability assessment
+* Conducting port scanning and network security checks
+* Identifying and reporting technical and security issues
+* Working with **Laravel, PHP, MySQL, React, Flutter, Git/GitHub, and Postman**
+* Collaborating with team members to troubleshoot issues and improve system functionality and security
+
+### Trainee Network Administrator
+
+**SoftwarePlus Pvt Ltd – Remote**
+**January 2026 – June 2026**
+
+* Assisted with basic network administration and troubleshooting
+* Gained practical exposure to network monitoring, configuration, and maintenance
+* Supported troubleshooting of connectivity and network-related issues
+* Applied knowledge of **TCP/IP, routing, switching, and network security**
+* Collaborated with team members to identify and resolve technical issues
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
-### Programming & Development
+### Networking
 
-`Python` `PHP` `Java` `Dart` `JavaScript` `HTML` `CSS`
+`TCP/IP` `Routing & Switching` `VLANs` `Network Troubleshooting`
 
-### Frameworks & Technologies
+### Cyber Security
 
-`Flutter` `Laravel` `Flask` `React`
+`Network Security` `Security Testing` `Port Scanning` `Vulnerability Assessment` `Ethical Hacking`
+
+### Development
+
+`PHP` `Laravel` `React` `Flutter` `Python` `JavaScript` `HTML` `CSS`
 
 ### Databases
 
 `MySQL` `SQLite`
 
-### Networking & Cyber Security
+### Testing & Tools
 
-`Computer Networking` `Routing & Switching` `VLANs`
-`Network Security` `Web Security` `Port Scanning`
-`Security Testing` `Cisco Packet Tracer` `Wireshark`
-
-### Tools
-
-`Git` `GitHub` `VS Code` `Postman` `Linux`
+`Postman` `Git` `GitHub` `Cisco Packet Tracer` `Wireshark`
 
 ---
 
-## Projects
+## 🚀 Featured Projects
 
-### GrowMate – Smart Agriculture Mobile Application
+### 🌱 GrowMate — Smart Agriculture Mobile Application
 
 **University Final Year Project**
 
-A smart agriculture mobile application designed to support rural farmers with digital tools for agricultural decision-making and productivity.
+A smart agriculture mobile application designed to empower rural farmers with digital tools to improve decision-making and agricultural productivity.
 
-**Key Features:**
+**Key Features**
 
-* Buy and sell platform
-* Fertilizer reminders
-* AI chatbot
-* Harvesting machine booking platform
+* 🛒 Buy & Sell Platform
+* 🌿 Fertilizer Reminder
+* 🤖 AI Chatbot
+* 🚜 Harvesting Machine Booking Platform
 
-**Technologies:** Flutter, Python, Flask, SQLite, TensorFlow/Keras, JWT
+**Technologies:** Flutter • Python • Flask • SQLite • TensorFlow/Keras • JWT
 
-[View Repository](https://github.com/thanujika/growmate_final)
+🔗 [View Repository](https://github.com/thanujika/growmate_final)
 
 ---
 
-### Machine Learning-Based Malware Detection System
+### 🦠 Machine Learning-Based Malware Detection System
 
 A machine learning-based application developed to detect malicious software using machine learning techniques.
 
-**Technologies:** Python, Machine Learning, Streamlit
+**Technologies:** Python • Machine Learning • Streamlit
 
-[View Live Demo](https://yadhurshini-mini-project-malware-clean-app-xy0x1r.streamlit.app/)
-
----
-
-### School Management System
-
-A system developed to streamline student and staff record management and reduce manual administrative work.
-
-[View Repository](https://github.com/thanujika/schoolmanagement-)
+🔗 [View Live Demo](https://yadhurshini-mini-project-malware-clean-app-xy0x1r.streamlit.app/)
 
 ---
 
-### E-commerce Flower Shop Website
+### 🏫 School Management System
 
-A responsive online flower shop website featuring a product catalog and shopping cart functionality.
+A system designed to streamline student and staff record management and reduce manual administrative work.
 
-**Technologies:** HTML, CSS, JavaScript
+**Focus:** Student Management • Staff Management • Record Management
 
-[View Repository](https://github.com/thanujika/web-system-technology)
-
----
-
-### Mental Health Flutter App
-
-A mobile application providing stress-relief techniques, personal notes, and daily mental wellness exercises.
-
-**Technologies:** Flutter, Dart
-
-[View Repository](https://github.com/thanujika/calmspace-mental)
+🔗 [View Repository](https://github.com/thanujika/schoolmanagement-)
 
 ---
 
-### MindPages – Personal Journal Web Application
+### 🌸 E-commerce Flower Shop Website
+
+A responsive online flower shop website with a product catalog and shopping cart functionality.
+
+**Technologies:** HTML • CSS • JavaScript
+
+🔗 [View Repository](https://github.com/thanujika/web-system-technology)
+
+---
+
+### 🧠 Mental Health Flutter App
+
+A Flutter mobile application providing stress-relief techniques, personal notes, and daily mental wellness exercises.
+
+**Technologies:** Flutter • Dart
+
+🔗 [View Repository](https://github.com/thanujika/calmspace-mental)
+
+---
+
+### 📖 MindPages — Personal Journal Web Application
 
 A responsive browser-based journal application featuring CRUD operations, search, statistics, text export, and local data persistence.
 
-**Technologies:** HTML, CSS, JavaScript, localStorage
+**Technologies:** HTML • CSS • JavaScript • localStorage
 
-[View Repository](https://github.com/thanujika/Journal-book)
+🔗 [View Repository](https://github.com/thanujika/Journal-book)
 
 ---
 
-### GameHub – 10-in-1 Classic Games
+### 🎮 GameHub — 10-in-1 Classic Games
 
 A responsive collection of 10 classic games with score tracking, high scores, game statistics, and local data persistence.
 
-**Technologies:** HTML, CSS, JavaScript, localStorage
+**Features:** 10 Games • Score Tracking • High Scores • Statistics • Offline Support
 
-[View Repository](https://github.com/thanujika/gamehub)
+**Technologies:** HTML • CSS • JavaScript • localStorage
+
+🔗 [View Repository](https://github.com/thanujika/gamehub)
 
 ---
 
-### MindEase – Mental Wellness Web Application
+### 🧘 MindEase — Mental Wellness Web Application
 
 A responsive mental wellness application featuring mood tracking, journaling, guided breathing exercises, and progress tracking.
 
-**Technologies:** HTML, CSS, JavaScript, localStorage
+**Technologies:** HTML5 • CSS3 • JavaScript • localStorage
 
-[View Repository](https://github.com/thanujika/calming-web)
-
----
-
-## Education
-
-**BIT (Hons) in Networking & Mobile Computing**
-Horizon Campus, Sri Lanka
-
-**Diploma in Cyber Security**
-PSB University, Cambodia
-
-**Diploma / HND in Psychology & Counselling**
-
-**G.C.E. Advanced Level – Biotechnology Stream**
-
-**G.C.E. Ordinary Level**
+🔗 [View Repository](https://github.com/thanujika/calming-web)
 
 ---
 
-## Areas of Interest
+## 🎓 Education
 
-* Cyber Security
+### BIT (Hons) in Networking & Mobile Computing
+
+**Horizon Campus, Sri Lanka**
+2022 – 2026
+
+### Diploma in Cyber Security & Ethical Hacking
+
+**SITC University, Sri Lanka**
+2026
+
+### Diploma in Psychology
+
+**Eurasian Campus, Sri Lanka**
+2024
+
+### G.C.E. Advanced Level — Bio Systems Technology
+
+**H/Ruhunu Vijayaba National College**
+2020
+
+### G.C.E. Ordinary Level
+
+2017
+
+---
+
+## 📜 Certifications
+
+* **Diploma in AWS Solution Architect** — Alison
+* **Cybersecurity Fundamentals** — Cisco Networking Academy
+* **IoT Fundamentals** — Cisco Networking Academy
+* **Network Fundamentals** — Cybrary
+* **Diploma in Computer Network** — Alison
+* **Linux Network Administrator** — Alison
+* **Principles of User Experience & Business Accessibility**
+
+---
+
+## 🔐 Areas of Interest
+
 * Network Security
-* Computer Networking
+* Cyber Security
+* Ethical Hacking
+* Network Administration
+* IT Infrastructure
 * Web Application Security
+* Vulnerability Assessment
+* Software Testing & QA
 * Mobile Application Development
-* Software Development
+* Web Development
 * Artificial Intelligence & Machine Learning
-* Quality Assurance & Software Testing
 
 ---
 
-## GitHub Statistics
+## 💡 Soft Skills
+
+`Problem Solving` • `Critical Thinking` • `Teamwork` • `Communication` • `Adaptability` • `Time Management` • `Attention to Detail`
+
+---
+
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanujika&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanujika&layout=compact&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=thanujika&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanujika&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
-## Connect With Me
+## 📫 Connect With Me
 
-**Email:** [dinithithanujika@gmail.com](mailto:dinithithanujika@gmail.com)
+<p align="center">
 
-**GitHub:** [github.com/thanujika](https://github.com/thanujika)
+<a href="mailto:dinithithanujika@gmail.com">
+<img src="https://img.shields.io/badge/Email-dinithithanujika%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-**Portfolio:** [Dinithi Thanujika](https://transcendent-profiterole-3fd959.netlify.app)
+<a href="https://github.com/thanujika">
+<img src="https://img.shields.io/badge/GitHub-thanujika-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://transcendent-profiterole-3fd959.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Dinithi-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-  Thank you for visiting my profile!
+  <i>Thank you for visiting my profile!</i>
 </p>
